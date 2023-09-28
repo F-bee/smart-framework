@@ -1,6 +1,7 @@
 package com.kk.framework.helper;
 
 import com.kk.framework.annotation.Inject;
+import com.kk.framework.util.ArrayUtil;
 import com.kk.framework.util.CollectionUtil;
 import com.kk.framework.util.ReflectionUtil;
 

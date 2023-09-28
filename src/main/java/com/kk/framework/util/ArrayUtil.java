@@ -1,4 +1,4 @@
-package com.kk.framework.helper;
+package com.kk.framework.util;
 
 import org.apache.commons.lang3.ArrayUtils;
 
