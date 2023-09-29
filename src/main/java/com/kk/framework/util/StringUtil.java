@@ -25,4 +25,13 @@ public final class StringUtil {
     public static boolean isNotEmpty(String str) {
         return !isEmpty(str);
     }
+
+    public static String[] splitString(String str, String splitChar) {
+        String[] split = new String[0];
+        if (str != null) {
+            return str.split(splitChar);
+        }
+        return split;
+
+    }
 }
